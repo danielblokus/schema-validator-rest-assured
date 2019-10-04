@@ -1,5 +1,3 @@
-
-.gitignore
 .gradle/
 .idea/$PRODUCT_WORKSPACE_FILE$
 .idea/.gitignore
@@ -9,10 +7,5 @@
 .idea/misc.xml
 .idea/uiDesigner.xml
 .idea/vcs.xml
-build.gradle
 build/
 gradle/
-gradlew
-gradlew.bat
-settings.gradle
-src/
