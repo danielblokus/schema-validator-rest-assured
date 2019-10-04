@@ -29,7 +29,7 @@ public class SchemaValidatorTest {
     }
 
     @Test
-    public void givenUrl_whenJsonResponseConformsToSchema_thenCorrect() {
+    public void exampleValidation() {
         given()
         .when()
             .get(UUID_URL)
